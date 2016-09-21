@@ -1,2 +1,2 @@
 # assignments
-https://github.com/ppahuijbregts/assignments/blob/master/CV.md
+[My CV (in Dutch)] (https://github.com/ppahuijbregts/assignments/blob/master/CV.md)
