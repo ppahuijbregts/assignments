@@ -3,4 +3,4 @@
 
 [Canon-The Behavioral aspects of Labor Economics](https://github.com/spirosara/Assignments/blob/master/Canon-%20The%20Behavioral%20aspects%20of%20Labor%20Economics.md)
 
-[Final assignment](https://htmlpreview.github.io/?https://github.com/ppahuijbregts/assignments/blob/master/Assignment.html#Method-and-introduction)
+[Final assignment](https://htmlpreview.github.io/?https://github.com/ppahuijbregts/assignments/blob/master/Assignment.html)
